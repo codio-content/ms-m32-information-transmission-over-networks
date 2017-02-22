@@ -1,0 +1,62 @@
+{
+ "sections": [
+  {
+   "id": "ffb1ee2d-449d-264b-da47-377f7313ca1e",
+   "title": "Computer Speak",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Computer-Speak-ffb1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "92247018-6e6c-4048-6c6f-899b4fb698ac",
+   "title": "Sending Information",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Sending-Information-9224.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9638a4b8-47ea-19da-c8c1-009350c43fbd",
+   "title": "Packets",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Packets-9638.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "12bf76fa-ba9a-ee5e-d078-a8cec9e0a352",
+   "title": "Check-Up 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Check-Up-1-12bf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c9f56ec7-de17-8f61-71ee-f1bc80c5d04c",
+   "title": "Check-Up 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Check-Up-2-c9f5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

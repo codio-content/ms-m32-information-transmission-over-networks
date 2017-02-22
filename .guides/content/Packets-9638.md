@@ -1,0 +1,3 @@
+When one computer sends information to another in a series of packets, each packet is numbered so that the receiver knows that all of the packets were received. If the receiver does not have all of the packets, they would not be able to put together and interpret the entire set of information.
+
+If a computer is missing a packet, it will send a request back to the sender so that the packet can be re-sent.

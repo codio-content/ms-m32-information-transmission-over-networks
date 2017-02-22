@@ -1,0 +1,70 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-826684516",
+  "source": {
+   "name": "Check-Up",
+   "showName": false,
+   "instructions": "What are the tiny sets of information sent from one computer to another called?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "030c2ab0-0b07-b965-57de-465edf82ef70",
+     "correct": false,
+     "answer": "Data"
+    },
+    {
+     "_id": "e32ba32e-9679-a280-fc8e-841f13859f20",
+     "correct": false,
+     "answer": "1s and 0s"
+    },
+    {
+     "_id": "9ca8b543-5741-292b-2659-c034e0f0a979",
+     "correct": false,
+     "answer": "Packages"
+    },
+    {
+     "_id": "4fda1339-b0a3-7205-cfc7-143cffae2777",
+     "correct": true,
+     "answer": "Packets"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3466547698",
+  "source": {
+   "name": "Check-up 2",
+   "showName": false,
+   "instructions": "What happens if a receiving computer does not get all of the packets?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "8243fb2a-c72f-3197-4586-94a9da8e8f24",
+     "correct": false,
+     "answer": "It asks the sender to re-send all of the packets."
+    },
+    {
+     "_id": "a38a7604-6eae-0470-1315-4ac3ab0163e2",
+     "correct": true,
+     "answer": "It asks the sender to re-send only the missing packets."
+    },
+    {
+     "_id": "bce4a4e1-e643-a170-aaf2-1b934e9be191",
+     "correct": false,
+     "answer": "It freezes because it cannot do anything."
+    },
+    {
+     "_id": "2d9fcfc0-4968-1da0-138f-c88c757d8ccc",
+     "correct": false,
+     "answer": "It sends all of the packets back to the sender."
+    }
+   ]
+  }
+ }
+]
